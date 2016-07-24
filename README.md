@@ -5,6 +5,7 @@
 ##Java
 ###Java集合
 [Java集合：总体框架一览(Collection系列和Map系列)](http://blog.csdn.net/eson_15/article/details/51139971)
+[Java集合：Collection架构与源码分析](http://blog.csdn.net/eson_15/article/details/51139978)
 ###Java并发
 ###Java JVM
 ##数据结构
