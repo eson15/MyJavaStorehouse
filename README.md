@@ -10,6 +10,7 @@
 [Java集合：LinkedList原理与源码分析](http://blog.csdn.net/eson_15/article/details/51135944)<br/>
 [Java集合：ArrayList和LinkedList的区别](http://blog.csdn.net/eson_15/article/details/51145788)<br/>
 [Java集合：fail-fast机制详解](http://blog.csdn.net/eson_15/article/details/51149080)<br/>
+[Java集合：Map架构与源码分析](http://blog.csdn.net/eson_15/article/details/51150033)<br/>
 ###1.2 Java并发
 ###1.3 Java JVM
 ##2. 数据结构
