@@ -18,6 +18,8 @@
 ###1.2 Java并发
 [Java并发：传统线程技术中创建线程的两种方式](http://blog.csdn.net/eson_15/article/details/51465316)<br/>
 ###1.3 Java JVM
-##2. 数据结构
 
-##3. 排序算法
+##2. 数据结构和算法
+###2.1 数据结构
+[数据结构：数组](http://blog.csdn.net/eson_15/article/details/51126182)<br/>
+###2.2 排序算法
