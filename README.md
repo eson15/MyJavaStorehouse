@@ -22,4 +22,6 @@
 ##2. 数据结构和算法
 ###2.1 数据结构
 [数据结构：数组](http://blog.csdn.net/eson_15/article/details/51126182)<br/>
+[数据结构：栈与队列](http://blog.csdn.net/eson_15/article/details/51126638)<br/>
 ###2.2 排序算法
+[排序算法：基础排序（冒泡、选择、插入）](http://blog.csdn.net/eson_15/article/details/51154989)<br/>
