@@ -18,7 +18,8 @@
 ###1.2 Java并发
 [Java并发：传统线程技术中创建线程的两种方式](http://blog.csdn.net/eson_15/article/details/51465316)<br/>
 ###1.3 Java JVM
-
+[java JVM：java内存区域与内存溢出异常](http://blog.csdn.net/eson_15/article/details/51745671)<br/>
+[java JVM：java虚拟机的类加载机制](http://blog.csdn.net/eson_15/article/details/51755023)<br/>
 ##2. 数据结构和算法
 ###2.1 数据结构
 [数据结构：数组](http://blog.csdn.net/eson_15/article/details/51126182)<br/>
