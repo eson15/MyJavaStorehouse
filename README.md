@@ -29,6 +29,7 @@
 [数据结构：链表](http://blog.csdn.net/eson_15/article/details/51136653)<br/>
 [数据结构：二叉树](http://blog.csdn.net/eson_15/article/details/51138663)<br/>
 [数据结构：红黑树](http://blog.csdn.net/eson_15/article/details/51144079)<br/>
+<a href="http://blog.csdn.net/eson_15/article/details/51144079" target="_blank">数据结构：红黑树</a>
 ###2.2 排序算法
 [排序算法：基础排序（冒泡、选择、插入）](http://blog.csdn.net/eson_15/article/details/51154989)<br/>
 ##3. 设计模式
