@@ -17,6 +17,8 @@
 [Java集合：HashMap和HashTable的区别](http://blog.csdn.net/eson_15/article/details/51250324)<br/>
 ###1.2 Java并发
 [Java并发：传统线程技术中创建线程的两种方式](http://blog.csdn.net/eson_15/article/details/51465316)<br/>
+[Java并发：传统线程技术中的定时器技术](http://blog.csdn.net/eson_15/article/details/51523842)<br/>
+[Java并发：传统线程互斥技术—synchronized](http://blog.csdn.net/eson_15/article/details/51525105)<br/>
 ###1.3 Java JVM
 [java JVM：java内存区域与内存溢出异常](http://blog.csdn.net/eson_15/article/details/51745671)<br/>
 [java JVM：java虚拟机的类加载机制](http://blog.csdn.net/eson_15/article/details/51755023)<br/>
