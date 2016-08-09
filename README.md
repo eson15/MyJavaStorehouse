@@ -21,6 +21,9 @@
 [Java并发：传统线程互斥技术—synchronized](http://blog.csdn.net/eson_15/article/details/51525105)<br/>
 [Java并发：线程技术之死锁问题](http://blog.csdn.net/eson_15/article/details/51527606)<br/>
 [Java并发：传统线程同步通信技术](http://blog.csdn.net/eson_15/article/details/51530778)<br/>
+[Java并发：线程范围内共享数据](http://blog.csdn.net/eson_15/article/details/51531941)<br/>
+[Java并发：传统线程同步通信技术](http://blog.csdn.net/eson_15/article/details/51530778)<br/>
+[Java并发：传统线程同步通信技术](http://blog.csdn.net/eson_15/article/details/51530778)<br/>
 ###1.3 Java JVM
 [java JVM：java内存区域与内存溢出异常](http://blog.csdn.net/eson_15/article/details/51745671)<br/>
 [java JVM：java虚拟机的类加载机制](http://blog.csdn.net/eson_15/article/details/51755023)<br/>
