@@ -25,6 +25,7 @@
 [Java并发：ThreadLocal类以及应用技巧](http://blog.csdn.net/eson_15/article/details/51540502)<br/>
 [Java并发：多个线程间共享数据](http://blog.csdn.net/eson_15/article/details/51546302)<br/>
 [Java并发：原子性操作类的使用](http://blog.csdn.net/eson_15/article/details/51553338)<br/>
+[Java并发：线程并发库的使用](http://blog.csdn.net/eson_15/article/details/51553597)<br/>
 ###1.3 Java JVM
 [java JVM：java内存区域与内存溢出异常](http://blog.csdn.net/eson_15/article/details/51745671)<br/>
 [java JVM：java虚拟机的类加载机制](http://blog.csdn.net/eson_15/article/details/51755023)<br/>
