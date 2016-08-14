@@ -28,6 +28,7 @@
 [Java并发：线程并发库的使用](http://blog.csdn.net/eson_15/article/details/51553597)<br/>
 [Java并发：Callable与Future的应用](http://blog.csdn.net/eson_15/article/details/51553606)<br/>
 [Java并发：线程锁技术的使用](http://blog.csdn.net/eson_15/article/details/51553614)<br/>
+[Java并发：条件阻塞Condition的应用](http://blog.csdn.net/eson_15/article/details/51559860)<br/>
 ###1.3 Java JVM
 [java JVM：java内存区域与内存溢出异常](http://blog.csdn.net/eson_15/article/details/51745671)<br/>
 [java JVM：java虚拟机的类加载机制](http://blog.csdn.net/eson_15/article/details/51755023)<br/>
